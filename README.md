@@ -1,4 +1,4 @@
-# Large File Storag
+# Large File Storage
 
 Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics 
 <br>with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.
